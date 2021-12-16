@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_roads</folder>
+	<filename>blackmus.png</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\car_roads\blackmus.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>443</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>30</ymin>
+			<xmax>810</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

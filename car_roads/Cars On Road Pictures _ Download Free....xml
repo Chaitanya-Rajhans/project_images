@@ -1,0 +1,50 @@
+<annotation>
+	<folder>car_roads</folder>
+	<filename>Cars On Road Pictures _ Download Free....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\car_roads\Cars On Road Pictures _ Download Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4752</width>
+		<height>3256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1281</xmin>
+			<ymin>1317</ymin>
+			<xmax>3292</xmax>
+			<ymax>2364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2763</xmin>
+			<ymin>1249</ymin>
+			<xmax>3781</xmax>
+			<ymax>1917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4063</xmin>
+			<ymin>1232</ymin>
+			<xmax>4752</xmax>
+			<ymax>1839</ymax>
+		</bndbox>
+	</object>
+</annotation>

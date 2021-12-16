@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_roads</folder>
+	<filename>metallic silver coupe on the road....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\car_roads\metallic silver coupe on the road....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>123</ymin>
+			<xmax>570</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

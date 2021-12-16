@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_roads</folder>
+	<filename>23409024.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\car_roads\23409024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>93</ymin>
+			<xmax>597</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

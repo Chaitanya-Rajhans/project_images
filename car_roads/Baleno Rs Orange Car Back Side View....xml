@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_roads</folder>
+	<filename>Baleno Rs Orange Car Back Side View....png</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\car_roads\Baleno Rs Orange Car Back Side View....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>28</ymin>
+			<xmax>742</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
