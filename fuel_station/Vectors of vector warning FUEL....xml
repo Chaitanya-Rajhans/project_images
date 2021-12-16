@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fuel_station</folder>
+	<filename>Vectors of vector warning FUEL....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\fuel_station\Vectors of vector warning FUEL....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fuel-station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>22</ymin>
+			<xmax>232</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

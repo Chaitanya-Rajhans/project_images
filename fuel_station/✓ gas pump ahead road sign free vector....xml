@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fuel_station</folder>
+	<filename>✓ gas pump ahead road sign free vector....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\fuel_station\✓ gas pump ahead road sign free vector....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fuel-station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>90</ymin>
+			<xmax>269</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

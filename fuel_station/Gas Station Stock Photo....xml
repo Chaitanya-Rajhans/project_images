@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fuel_station</folder>
+	<filename>Gas Station Stock Photo....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\fuel_station\Gas Station Stock Photo....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fuel-station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>162</ymin>
+			<xmax>386</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

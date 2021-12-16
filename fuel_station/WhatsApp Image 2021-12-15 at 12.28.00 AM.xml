@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fuel_station</folder>
+	<filename>WhatsApp Image 2021-12-15 at 12.28.00 AM.jpeg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\fuel_station\WhatsApp Image 2021-12-15 at 12.28.00 AM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>195</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fuel-station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>38</ymin>
+			<xmax>130</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

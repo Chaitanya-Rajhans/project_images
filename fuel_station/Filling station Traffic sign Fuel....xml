@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fuel_station</folder>
+	<filename>Filling station Traffic sign Fuel....png</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\fuel_station\Filling station Traffic sign Fuel....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fuel-station</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>25</ymin>
+			<xmax>893</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>
