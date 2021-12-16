@@ -1,0 +1,26 @@
+<annotation>
+	<folder>narrow_road</folder>
+	<filename>Road Narrows Sign_ What Does it Mean_ (2).jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\narrow_road\Road Narrows Sign_ What Does it Mean_ (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>narrow-road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>216</ymin>
+			<xmax>604</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

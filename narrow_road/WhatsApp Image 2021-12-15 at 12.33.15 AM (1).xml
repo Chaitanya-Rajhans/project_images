@@ -1,0 +1,26 @@
+<annotation>
+	<folder>narrow_road</folder>
+	<filename>WhatsApp Image 2021-12-15 at 12.33.15 AM (1).jpeg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\narrow_road\WhatsApp Image 2021-12-15 at 12.33.15 AM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>699</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>narrow-road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>199</ymin>
+			<xmax>312</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

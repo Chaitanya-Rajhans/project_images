@@ -1,0 +1,38 @@
+<annotation>
+	<folder>narrow_road</folder>
+	<filename>Narrow Road Sign Images_ Stock Photos... (6).jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\narrow_road\Narrow Road Sign Images_ Stock Photos... (6).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>644</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>narrow-road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>75</ymin>
+			<xmax>211</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>narrow-road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>80</ymin>
+			<xmax>558</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
