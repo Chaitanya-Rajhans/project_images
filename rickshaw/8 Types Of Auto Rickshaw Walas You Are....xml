@@ -1,0 +1,38 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>8 Types Of Auto Rickshaw Walas You Are....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\8 Types Of Auto Rickshaw Walas You Are....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>68</ymin>
+			<xmax>466</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>102</ymin>
+			<xmax>563</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

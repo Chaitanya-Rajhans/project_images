@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>Kashish Grover_ Tamron Challenge....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\Kashish Grover_ Tamron Challenge....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>941</xmin>
+			<ymin>287</ymin>
+			<xmax>1753</xmax>
+			<ymax>1002</ymax>
+		</bndbox>
+	</object>
+</annotation>

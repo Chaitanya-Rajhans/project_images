@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>Indian Auto Rickshaw Traffic Beta.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\Indian Auto Rickshaw Traffic Beta.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>73</ymin>
+			<xmax>584</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

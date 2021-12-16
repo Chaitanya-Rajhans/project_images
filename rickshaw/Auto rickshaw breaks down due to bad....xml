@@ -1,0 +1,38 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>Auto rickshaw breaks down due to bad....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\Auto rickshaw breaks down due to bad....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>698</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>82</ymin>
+			<xmax>886</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>977</xmin>
+			<ymin>68</ymin>
+			<xmax>1045</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

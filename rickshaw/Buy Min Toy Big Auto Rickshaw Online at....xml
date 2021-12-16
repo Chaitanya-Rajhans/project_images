@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>Buy Min Toy Big Auto Rickshaw Online at....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\Buy Min Toy Big Auto Rickshaw Online at....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>62</ymin>
+			<xmax>449</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

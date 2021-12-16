@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>Rani-E Auto Rickshaw at Best Price in....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\Rani-E Auto Rickshaw at Best Price in....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>83</ymin>
+			<xmax>429</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

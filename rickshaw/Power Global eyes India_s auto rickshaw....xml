@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rickshaw</folder>
+	<filename>Power Global eyes India_s auto rickshaw....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\rickshaw\Power Global eyes India_s auto rickshaw....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6489</width>
+		<height>5206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>286</ymin>
+			<xmax>6489</xmax>
+			<ymax>5206</ymax>
+		</bndbox>
+	</object>
+</annotation>
