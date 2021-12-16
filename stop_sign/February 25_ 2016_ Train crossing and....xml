@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop_sign</folder>
+	<filename>February 25_ 2016_ Train crossing and....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\stop_sign\February 25_ 2016_ Train crossing and....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>74</ymin>
+			<xmax>841</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop_sign</folder>
+	<filename>images (1).jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\stop_sign\images (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>22</ymin>
+			<xmax>165</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

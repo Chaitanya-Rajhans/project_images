@@ -1,0 +1,38 @@
+<annotation>
+	<folder>stop_sign</folder>
+	<filename>red and white stop signage photo – Free....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\stop_sign\red and white stop signage photo – Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1490</xmin>
+			<ymin>896</ymin>
+			<xmax>2421</xmax>
+			<ymax>1854</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2750</xmin>
+			<ymin>799</ymin>
+			<xmax>3077</xmax>
+			<ymax>1565</ymax>
+		</bndbox>
+	</object>
+</annotation>

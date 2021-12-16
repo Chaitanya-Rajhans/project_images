@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop_sign</folder>
+	<filename>Image of _New Delhi _India -21.06.2020 ....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\stop_sign\Image of _New Delhi _India -21.06.2020 ....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>164</ymin>
+			<xmax>1186</xmax>
+			<ymax>708</ymax>
+		</bndbox>
+	</object>
+</annotation>
