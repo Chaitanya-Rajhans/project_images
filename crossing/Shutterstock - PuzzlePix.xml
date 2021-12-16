@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crossing</folder>
+	<filename>Shutterstock - PuzzlePix.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\crossing\Shutterstock - PuzzlePix.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>72</ymin>
+			<xmax>372</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crossing</folder>
+	<filename>Road Zebra Crossing Sign Board at Best....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\crossing\Road Zebra Crossing Sign Board at Best....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>51</ymin>
+			<xmax>267</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

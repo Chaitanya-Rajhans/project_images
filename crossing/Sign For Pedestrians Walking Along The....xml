@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crossing</folder>
+	<filename>Sign For Pedestrians Walking Along The....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\crossing\Sign For Pedestrians Walking Along The....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>167</ymin>
+			<xmax>888</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

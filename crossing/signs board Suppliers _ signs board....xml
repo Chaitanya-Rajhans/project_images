@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crossing</folder>
+	<filename>signs board Suppliers _ signs board....jpeg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\crossing\signs board Suppliers _ signs board....jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>11</ymin>
+			<xmax>374</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
