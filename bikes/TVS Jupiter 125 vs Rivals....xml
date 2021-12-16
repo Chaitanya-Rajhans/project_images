@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>TVS Jupiter 125 vs Rivals....png</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\TVS Jupiter 125 vs Rivals....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>496</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>5</ymin>
+			<xmax>474</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

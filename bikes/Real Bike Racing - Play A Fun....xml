@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>Real Bike Racing - Play A Fun....png</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\Real Bike Racing - Play A Fun....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>45</ymin>
+			<xmax>277</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

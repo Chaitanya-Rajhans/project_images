@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>VI-BikeRealTime _ VI-grade.png</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\VI-BikeRealTime _ VI-grade.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>200</ymin>
+			<xmax>1810</xmax>
+			<ymax>1152</ymax>
+		</bndbox>
+	</object>
+</annotation>
