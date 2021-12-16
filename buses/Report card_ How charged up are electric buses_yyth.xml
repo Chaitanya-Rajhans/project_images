@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buses</folder>
+	<filename>Report card_ How charged up are electric buses_yyth.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\buses\Report card_ How charged up are electric buses_yyth.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>345</width>
+		<height>146</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>15</ymin>
+			<xmax>283</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>buses</folder>
+	<filename>Raksha Bandhan_ Bus Failures_ Rakhi....webp</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\buses\Raksha Bandhan_ Bus Failures_ Rakhi....webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>875</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>496</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>87</ymin>
+			<xmax>875</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
