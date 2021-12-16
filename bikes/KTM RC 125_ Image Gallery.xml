@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>KTM RC 125_ Image Gallery.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\KTM RC 125_ Image Gallery.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>136</ymin>
+			<xmax>480</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

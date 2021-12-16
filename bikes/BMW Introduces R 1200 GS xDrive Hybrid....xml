@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>BMW Introduces R 1200 GS xDrive Hybrid....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\BMW Introduces R 1200 GS xDrive Hybrid....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>10</ymin>
+			<xmax>703</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

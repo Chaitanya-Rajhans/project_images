@@ -1,0 +1,50 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>Bike Traffic India Images_ Stock Photos... (1).jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\Bike Traffic India Images_ Stock Photos... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>92</ymin>
+			<xmax>368</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>62</ymin>
+			<xmax>185</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>7</ymin>
+			<xmax>121</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

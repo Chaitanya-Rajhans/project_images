@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>KBNBS Real Model Miniature Sports Bike....jpeg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\KBNBS Real Model Miniature Sports Bike....jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>3</ymin>
+			<xmax>415</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

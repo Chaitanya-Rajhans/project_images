@@ -1,0 +1,50 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>Night Ride Pictures _ Download Free....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\bikes\Night Ride Pictures _ Download Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2504</xmin>
+			<ymin>680</ymin>
+			<xmax>3537</xmax>
+			<ymax>2271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>1106</ymin>
+			<xmax>1693</xmax>
+			<ymax>1659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1949</xmin>
+			<ymin>1306</ymin>
+			<xmax>2219</xmax>
+			<ymax>1501</ymax>
+		</bndbox>
+	</object>
+</annotation>
