@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buses</folder>
+	<filename>Non Air-conditioned Intercity Bus....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\buses\Non Air-conditioned Intercity Bus....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>645</ymin>
+			<xmax>1210</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+</annotation>

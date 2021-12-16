@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buses</folder>
+	<filename>Blank billboard on back of bus. Blank ....jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\buses\Blank billboard on back of bus. Blank ....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>20</ymin>
+			<xmax>564</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

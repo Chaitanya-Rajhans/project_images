@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buses</folder>
+	<filename>Delhi_s Premium Buses With Wifi_ GPS And CCTV_yythk.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\buses\Delhi_s Premium Buses With Wifi_ GPS And CCTV_yythk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>29</ymin>
+			<xmax>245</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>buses</folder>
+	<filename>gallery_2.jpg.jpg</filename>
+	<path>D:\chaitanya\projects\test_tensorflow\project_main\Sample-Images-main\buses\gallery_2.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>11</ymin>
+			<xmax>613</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
